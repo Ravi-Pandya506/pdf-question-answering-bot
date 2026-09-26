@@ -9,13 +9,16 @@ An AI-powered Python application that allows users to upload a PDF document and 
 
 🎯 Project Overview
 
+
 The PDF Question Answering Bot is a beginner-friendly AI/NLP project that demonstrates how users can interact with information contained in PDF documents using a question-answering pipeline.
 
 The application provides a simple Gradio web interface where users can upload a PDF, enter a question, and receive an AI-generated answer based on the document.
 
 This project was developed as part of my practical learning in Generative AI, Natural Language Processing, Python, and Git/GitHub.
 
+
 ✨ Features
+
 
 📄 Upload PDF documents
 
@@ -34,6 +37,7 @@ This project was developed as part of my practical learning in Generative AI, Na
 🚀 Simple local application deployment
 
 🛠️ Technologies Used
+
 Technology	Purpose
 🐍 Python	Application development
 🤗 Gradio	Interactive web interface
@@ -108,6 +112,7 @@ pdf-question-answering-bot/
     └── 🖼️ QA_bot.png
 
 ⚙️ Installation
+
 1. Clone the repository
 git clone https://github.com/Ravi-Pandya506/pdf-question-answering-bot.git
 cd pdf-question-answering-bot
