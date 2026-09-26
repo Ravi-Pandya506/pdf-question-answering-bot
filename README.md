@@ -99,17 +99,16 @@ The application provides a simple interface for uploading a PDF and asking quest
 Screenshot will be added here.
 
 <!-- When you upload your screenshot to GitHub, replace the line above with: ![PDF Question Answering Bot](screenshots/QA_bot.png) -->
+
 📁 Project Structure
+
 pdf-question-answering-bot/
-│
+
 ├── 📄 app.py
 ├── 📄 qabot.py
 ├── 📄 requirements.txt
 ├── 📄 README.md
 ├── 📄 .gitignore
-│
-├── 📂 documents/
-    └── 🖼️ QA_bot.png
 
 ⚙️ Installation
 
