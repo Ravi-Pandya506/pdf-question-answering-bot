@@ -44,7 +44,9 @@ Technology	Purpose
 📄 PDF Processing	Document processing
 🔧 Git	Version control
 🐙 GitHub	Source code management
+
 🔄 How It Works
+
         📄 PDF Document
                │
                ▼
@@ -70,6 +72,7 @@ Technology	Purpose
       │ AI Generated     │
       │ Answer           │
       └──────────────────┘
+
 
 User Flow
 
